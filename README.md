@@ -13,6 +13,7 @@ python cifar_nar.py --arch resnet --arch2 resnet --depth 32 --depth2 32 --epochs
 
 ## You can try other types networks.
 Configuration table:
+
 Model | Depth | weight decay | gamma |epochs | schedule
 ---|---|---|---|---|---
 plaincnn | 6 | 5e-4 | 0.1 | 200 | 60 120 160
