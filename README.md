@@ -1,5 +1,5 @@
 # NaR
-Code for reproducing results in NeurIPS-2019 submission.
+Code for reproducing results in AAAI-2020 submission.
 
 # Dependencies
 - pytorch-v1.0+
